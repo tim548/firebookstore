@@ -1,9 +1,9 @@
 {
+  "homepage": "https://tim548.github.io/firebookstore",
   "name": "firebookstore",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tim548.github.io/firebookstore",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
